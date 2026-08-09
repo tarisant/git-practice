@@ -1,1 +1,1 @@
-master branch clash code
+final resolved code: master and feature combined
